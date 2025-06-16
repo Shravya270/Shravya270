@@ -9,7 +9,7 @@
 
 ### 🔍 About Me
 
-- 🔭 Built a **Driver Drowsiness Detection System** as a hands-on ML project using OpenCV and TensorFlow  
+- 🔭 Actively building practical, hands-on projects to strengthen my skills in full-stack development and machine learning.
 - 👯 Open to collaborating on **web-based academic or beginner-friendly projects**  
 - 🤝 Looking to learn and improve in **machine learning model deployment and full-stack development**  
 - 🌱 Currently exploring **SAP ABAP** as part of my Accenture internship, along with **React** and **ML basics**  
