@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE @ AIET  | MERN Enthusiast | SAP ABAP Intern @ Accenture</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer+🚀;Exploring+Machine+Learning+📊;Currently+EX-Intern+at+Accenture;Passionate+about+blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer+🚀;Exploring+Machine+Learning+📊;Ex-Intern+at+Accenture;Passionate+about+blockchain" alt="Typing SVG" />
 </p>
 
 ---
